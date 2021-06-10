@@ -1,3 +1,6 @@
+# python program  to find the inference on the data points of standard deviation 1,2 and 3 . Project 109
+
+
 #importing modules
 import plotly.figure_factory as ff
 import plotly.graph_objects as go
